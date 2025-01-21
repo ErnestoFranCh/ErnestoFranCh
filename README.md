@@ -3,15 +3,16 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## Soy estudiante de Ingenieria Matematica.  
+## Soy estudiante de Ingeniería Matemática.  
 
 - Estoy activamente mejorando en mis habilidades en Python, SQL y PowerBI.
 - Continuamente adquiero habilidades en ciencia de datos, machine learning y data mining.
--  Mis metas a futuro son ser Cientifico de datos e incurcionar en la Ciberseguridad.
-- Me gusta mucho la musica, leer y hacer actividades fisicas.
+-  Mis metas a futuro son ser Científico de Datos e incursionar en la Ciberseguridad.
+- Me gusta mucho la música, leer y hacer actividades físicas.
+
 
 ---
-### Lenguajes de programacion 
+### Lenguajes de programación. 
 <br>	
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
@@ -20,7 +21,7 @@
 
 
 ---
-### Herramientas de Vizualizacion de datos
+### Herramientas de Vizualización de datos
 
 ![PowerBI](https://img.shields.io/badge/PowerBI-23F7DF1C?style=flat-square&logo=PowerBI&logoColor=000000&labelColor=%23f1c40f&color=%23f4d03f)
 ![Tableau](https://img.shields.io/badge/Tableau-000000?style=flat-square&logo=Tableau&labelColor=%231f618d&color=%231f618d)
@@ -28,7 +29,7 @@
 
 
 ---
-### Cotactame
+### Contáctame
 
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/ernesto-franco-chavez-08811b348"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
