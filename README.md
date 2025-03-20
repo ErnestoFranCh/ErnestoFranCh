@@ -5,14 +5,14 @@
 
 ## Soy estudiante de Ingeniería Matemática.  
 
-- Estoy activamente mejorando en mis habilidades como estadístico.
+- Estoy activamente mejorando mis habilidades como estadístico.
 - Continuamente adquiero habilidades en ciencia de datos, machine learning y data mining.
 -  Mis metas a futuro son ser Científico de Datos e incursionar en la Ciberseguridad y el Arte.
 - Me gusta mucho la música, leer y hacer actividades físicas.
 
 ---
 ### Actividades actuales
-Actualmente me encuentro refinando mis aptitudes en las librerías de Python para la minería de datos, como son BeautifulSoup, Requests y Selenium, también, aquellas que sirven para el manejo de grandes cantidades de datos y su análisis, por mencionar algunas Pandas, Seaborn y scikit-learn. Para mayor flexibilidad busco continuamente ampliar mis habilidades en otros lenguajes como R y SQL.
+Actualmente me encuentro refinando mis aptitudes en las librerías de Python para la minería de datos, como son BeautifulSoup, Requests y Selenium, también, aquellas que sirven para el manejo y visualización de grandes cantidades de datos, por mencionar algunas Pandas, Seaborn y scikit-learn. Para mayor flexibilidad busco continuamente ampliar mis habilidades en otros lenguajes como R y SQL.
 
 ---
 ### Lenguajes de programación. 
