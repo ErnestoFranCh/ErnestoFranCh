@@ -1,7 +1,7 @@
 <h1> Hola, Soy Ernesto Franco <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 
-<img align="right" alt="GIF" height="80px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img width = 240px align="right" alt="GIF"  src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## Soy recién egresado de Ingeniería Matemática..  
 
