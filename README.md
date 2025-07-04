@@ -1,18 +1,18 @@
 <h1> Hola, Soy Ernesto Franco <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="80px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## Soy estudiante de Ingeniería Matemática.  
+## Soy recién egresado de Ingeniería Matemática..  
 
 - Estoy activamente mejorando mis habilidades como estadístico.
 - Continuamente adquiero habilidades en ciencia de datos, machine learning y data mining.
--  Mis metas a futuro son ser Científico de Datos e incursionar en la Ciberseguridad y el Arte.
+- Mis metas a futuro son ser Científico de Datos e incursionar en el arte y la investigación.
 - Me gusta mucho la música, leer y hacer actividades físicas.
 
 ---
 ### Actividades actuales
-Actualmente me encuentro refinando mis aptitudes en las librerías de Python para la minería de datos, como son BeautifulSoup, Requests y Selenium, también, aquellas que sirven para el manejo y visualización de grandes cantidades de datos, por mencionar algunas Pandas, Seaborn y scikit-learn. Para mayor flexibilidad busco continuamente ampliar mis habilidades en otros lenguajes como R y SQL.
+Actualmente me encuentro refinando mis aptitudes en las librerías de Python, como son BeautifulSoup, Requests y Selenium, también, aquellas que sirven para el manejo y visualización de grandes cantidades de datos, por mencionar algunas Pandas, Seaborn y scikit-learn. Para mayor flexibilidad busco continuamente ampliar mis habilidades en otros lenguajes como R y SQL. También sigo perfeccionando mis habilidades en herramientas especializadas como Excel y Power BI.
 
 ---
 ### Lenguajes de programación. 
